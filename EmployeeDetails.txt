@@ -1,0 +1,4 @@
+EmpID,EmpName,EmpSal,EmpAge
+10,Deepu,200000,21
+11,Prem,150000,20
+12,Pradeep,250000,21
